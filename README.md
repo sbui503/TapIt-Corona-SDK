@@ -44,12 +44,4 @@ end, 0)
 tapit.hide()
 ```
 
-GitHub repository and documentation
-
-https://github.com/deniza/TapIt-Corona-SDK
-
-Copyright by Deniz Aydinoglu
-
-http://he2apps.com
-
 Corona® SDK is registered trademark of Ansca® Inc. Ansca, the Ansca Logo, anscamobile.com are trademarks or registered trademarks of Ansca Inc.
