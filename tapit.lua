@@ -3,12 +3,12 @@
 -- TapIt Corona SDK
 --
 -- a module to use TapIt ads on your corona applications
--- by Deniz Aydinoglu
 --
--- he2apps.com
+--
+-- 
 --
 -- GitHub repository and documentation:
--- https://github.com/deniza/TapIt-Corona-SDK
+-- https://github.com/tapit/TapIt-Corona-SDK
 ------------------------------------------------------------
 ------------------------------------------------------------
 
